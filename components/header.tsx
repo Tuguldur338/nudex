@@ -63,7 +63,7 @@ const Header = () => {
           <input
             type="text"
             placeholder="Search for pink pussy..."
-            className="rounded-[12px] outline"
+            className="outline-none"
           />
         </div>
       </div>
